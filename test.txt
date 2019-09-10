@@ -1,2 +1,3 @@
-test('pull_next');
-test('conflicts_created');
+test('pull_next;');
+test('conflicts_created;');
+test('pull_next;');
